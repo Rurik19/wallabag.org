@@ -13,7 +13,7 @@ sortorder: 30
 <p>
 <ul>
  <li>Last version: <strong>2.1.5</strong> (2016/11/21). <a href="https://www.wallabag.org/pages/releases.html">History of wallabag releases is here</a>.</li>
- <li>MD5 checkum: <code>4f86edd35058a8387b522da82593ae1e</code>.</li>
+ <li>MD5 checkum: <code>64064b3e5d454c00c7c2171f86d47ef9</code>.</li>
  <li><a href="https://www.wallabag.org/blog/2016/11/21/wallabag-215">Blog post about this version</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/installation.html">How to install this version?</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/upgrade.html">How to update?</a></li>
