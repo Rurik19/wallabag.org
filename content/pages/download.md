@@ -12,9 +12,9 @@ sortorder: 30
   <div class="tab-pane fade active in" id="dedicated">
 <p>
 <ul>
- <li>Last version: <strong>2.1.4</strong> (2016/11/19). <a href="https://www.wallabag.org/pages/releases.html">History of wallabag releases is here</a>.</li>
- <li>MD5 checkum: <code>9a081d2c5b27a9d01d2c86213d53a3b0</code>.</li>
- <li><a href="https://www.wallabag.org/blog/2016/11/19/wallabag-214">Blog post about this version</a></li>
+ <li>Last version: <strong>2.1.5</strong> (2016/11/21). <a href="https://www.wallabag.org/pages/releases.html">History of wallabag releases is here</a>.</li>
+ <li>MD5 checkum: <code>4f86edd35058a8387b522da82593ae1e</code>.</li>
+ <li><a href="https://www.wallabag.org/blog/2016/11/21/wallabag-215">Blog post about this version</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/installation.html">How to install this version?</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/upgrade.html">How to update?</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/import.html">How to migrate from wallabag or an other service?</a></li>
