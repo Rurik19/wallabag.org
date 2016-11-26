@@ -4,8 +4,6 @@ sortorder: 30
 
 <ul class="nav nav-tabs">
   <li class="active"><a href="#dedicated" data-toggle="tab" aria-expanded="true">Install and update wallabag</a></li>
-  <li><a href="#docker" data-toggle="tab" aria-expanded="true">Install with docker</a></li>
-  <li><a href="#softaculous" data-toggle="tab" aria-expanded="true">Install with Softaculous</a></li>
   <li><a href="#v1" data-toggle="tab" aria-expanded="true">Install wallabag v1</a></li>
 </ul>
 <div id="myTabContent" class="tab-content">
@@ -19,19 +17,20 @@ sortorder: 30
  <li><a href="http://doc.wallabag.org/en/master/user/upgrade.html">How to update?</a></li>
  <li><a href="http://doc.wallabag.org/en/master/user/import.html">How to migrate from wallabag or an other service?</a></li>
 </ul></p>
-  </div>
-  <div class="tab-pane fade" id="docker"><p>
-  <p style="float: right;"><img src="/images/docker.png" alt="Docker logo" /></p>
+    <h3>Install with Docker</h3>
     <p>You can find our official repository <a href="https://hub.docker.com/r/wallabag/wallabag/">on Docker hub</a>.</p>
     <div class="highlight"><pre>
-docker pull wallabag/wallabag</pre></div></p>
-  </div>
-  <div class="tab-pane fade" id="softaculous">
-  <p>
-  <p style="float: right;"><img src="/images/softaculous.gif" alt="Softaculous logo" /></p>
+docker pull wallabag/wallabag</pre>
+    </div>
+
+    <h3>Install on ArchLinux</h3>
+
+    <p>A package is available for ArchLinux platform. <a href="https://aur.archlinux.org/packages/wallabag/">You can find it here</a>.</p>
+
+    <h3>Install with Softaculous</h3>
     <p>Thanks to Softaculous, you can easily install wallabag. <a href="https://www.softaculous.com/softaculous/apps/others/wallabag">Create your account on the Softaculous website</a> and install wallabag.</p>
- </p> 
   </div>
+
   <div class="tab-pane fade" id="v1">
     <p>
 <ul>
