@@ -2,8 +2,10 @@ Title: Releases
 sortorder: 35
 exclude: True
 
-Here is the list of all wallabag releases.  
+Here is the list of all wallabag releases.
 Please don't use old releases, or you will find less support and they may contain security bugs.
+
+You can find all [our last releases on this website](http://static.wallabag.org/releases/).
 
 **The last release is in green**.
 
