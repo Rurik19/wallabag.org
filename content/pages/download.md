@@ -23,9 +23,11 @@ sortorder: 30
 docker pull wallabag/wallabag</pre>
     </div>
 
-    <h3>Install on ArchLinux</h3>
-
-    <p>A package is available for ArchLinux platform. <a href="https://aur.archlinux.org/packages/wallabag/">You can find it here</a>.</p>
+    <h3>Distributions packages</h3>
+    <ul>
+      <li>A package is available for ArchLinux platform. <a href="https://aur.archlinux.org/packages/wallabag/">You can find it here</a>.</li>
+      <li>A package is available for Gentoo platform. <a href="https://github.com/daktak/gentoo/tree/master/www-apps/wallabag">You can find it here</a>.</li>
+    </ul>
 
     <h3>Install with Softaculous</h3>
     <p>Thanks to Softaculous, you can easily install wallabag. <a href="https://www.softaculous.com/softaculous/apps/others/wallabag">Create your account on the Softaculous website</a> and install wallabag.</p>
