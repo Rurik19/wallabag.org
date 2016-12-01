@@ -87,6 +87,15 @@ wget http://wllbg.org/latest && unzip latest
   <div class="col-lg-4">
       <div class="panel panel-default">
         <div class="panel-body">
+          <i class="fa fa-opera fa-lg"></i> <strong>[Opera](https://addons.opera.com/en/extensions/details/wallabagger/?display=en)</strong>
+        </div>
+        <div class="panel-footer">Developed by Yuriy Evdokimov.
+        *[source code](https://github.com/wallabag/wallabagger)*</div>
+      </div>
+  </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
           <i class="fa fa-firefox fa-lg"></i> <strong>[Firefox OS](https://github.com/wallabag/wallabag-fxos)</strong>
         </div>
         <div class="panel-footer">Developed by freddyb.
@@ -103,6 +112,9 @@ wget http://wllbg.org/latest && unzip latest
         *[source code](https://github.com/wallabag/android-app)*</div>
       </div>
   </div>
+</div>
+
+<div class="col-lg-12" markdown="1">
   <div class="col-lg-4">
       <div class="panel panel-default">
         <div class="panel-body">
@@ -113,9 +125,6 @@ wget http://wllbg.org/latest && unzip latest
         *[source code](https://github.com/wallabag/windows-app)*</div>
       </div>
   </div>
-</div>
-
-<div class="col-lg-12" markdown="1">
   <div class="col-lg-4">
       <div class="panel panel-default">
         <div class="panel-body">
@@ -136,6 +145,19 @@ wget http://wllbg.org/latest && unzip latest
         *[source code](https://github.com/wallabag/ios-app-v1)*</div>
       </div>
   </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-apple fa-lg"></i> <strong>[iPhone](https://appsto.re/fr/YeqYfb.i)</strong>
+          <small>for wallabag v2 only</small>
+        </div>
+        <div class="panel-footer">Developed by Maxime Marinel.
+        *[source code](https://github.com/wallabag/ios-app)*</div>
+      </div>
+  </div>
+</div>
+
+<div class="col-lg-12" markdown="1">
   <div class="col-lg-4">
       <div class="panel panel-default">
         <div class="panel-body">
